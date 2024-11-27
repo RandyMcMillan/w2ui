@@ -1,0 +1,3 @@
+[submodule "include_dir"]
+	path = include_dir
+	url = git@github.com:RandyMcMillan/include_dir.git

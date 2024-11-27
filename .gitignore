@@ -15,3 +15,6 @@ dist/w2ui-*.tgz
 *.iws
 .DAV
 *~
+
+# cargo
+/target
