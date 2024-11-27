@@ -4,4 +4,10 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0"
 include_dir = { version = "0.0.3", path = "include_dir/include_dir", features = ["glob", "metadata"] }
+rsass = "0.28.10"
+
+[build-dependencies]
+anyhow = "1.0"
+rsass = "0.28.0"
